@@ -8,8 +8,8 @@ http://www.springframework.org/schema/beans/spring-beans-4.0.xsd">
           destroy-method="close">
         <property name="driverClass" value="com.mysql.jdbc.Driver" />
         <property name="jdbcUrl" value="jdbc:mysql://localhost:3306/Derivativeone" />
-        <property name="user" value="raghav" />
-        <property name="password" value="ananya" />
+        <property name="user" value="" />
+        <property name="password" value="" />
     </bean>
 
 </beans>
